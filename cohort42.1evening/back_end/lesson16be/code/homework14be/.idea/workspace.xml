@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2671bf5-ad19-4551-ac10-4ffc80708390" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../lesson13be/code/homework13be/src/main/java/de/ait/homework13be/service/TranslateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/Homework14beApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/controller/WordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/dto/WordRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/dto/WordResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/entity/Wortkarte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/repository/WordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/service/TranslateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/service/WordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/java/de/ait/homework14be/service/WordServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson14be/code/homework14be/src/test/java/de/ait/homework14be/Homework13beApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837/storage_v2/_src_/database/shop42_1.ptpb6w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837/storage_v2/_src_/database/shop42_1.ptpb6w/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9/storage_v2/_src_/database/shop42.9Psqyg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9/storage_v2/_src_/database/shop42.9Psqyg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/Shop42Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/cart/dto/CardResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/cart/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/customer/dto/CustomerRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/customer/dto/CustomerResposeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/customer/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/customer/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/customer/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/exaption/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/dto/ProductRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/dto/ProductResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/service/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/java/de/ait/shop42/product/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/src/test/java/de/ait/shop42/Shop42ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_01/shop42/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837/storage_v2/_src_/database/shop42_1.ptpb6w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/94d205f0-4579-46e1-a9c9-de384abaf837/storage_v2/_src_/database/shop42_1.ptpb6w/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9/storage_v2/_src_/database/shop42.9Psqyg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/dataSources/ce30a379-4bbd-4850-a4d1-6a61ceb114e9/storage_v2/_src_/database/shop42.9Psqyg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/Shop42Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/cart/dto/CardResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/cart/entity/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/dto/CartResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/dto/CustomerRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/dto/CustomerResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/customer/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/exaption/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/dto/ProductRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/dto/ProductResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/service/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/product/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/security/accounting/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/security/accounting/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/security/accounting/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/java/de/ait/shop42/security/accounting/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/src/test/java/de/ait/shop42/Shop42ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/example_02/shop42/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15be/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15beFragezeichen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15beFragezeichen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson15be/code/homework15beFragezeichen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/Homework16beApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/controller/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/controller/WordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/dto/GroupDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/dto/WordRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/dto/WordResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/entity/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/entity/Wortkarte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/repository/GroupRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/repository/WordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/service/GroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/service/GroupServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/service/TranslateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/service/WordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/java/de/ait/homework16be/service/WordServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16be/src/test/java/de/ait/homework16be/Homework13beApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson13be/code/homework13be/src/main/java/de/ait/homework13be/Homework13beApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson13be/code/homework13be/src/main/java/de/ait/homework13be/Homework13beApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson13be/code/homework13be/src/main/java/de/ait/homework13be/service/WordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson13be/code/homework13be/src/main/java/de/ait/homework13be/service/WordService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2l7wTZJGvCxTGSzL0v0oDvFlnWu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Homework13beApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Homework13beApplication.executor": "Run",
+    "Spring Boot.Homework14beApplication.executor": "Run",
+    "Spring Boot.Homework16beApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Valerian/SchoolAIT-TR/cohort42.1evening/back_end/lesson16be/code/homework14be/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.ait.homework13be.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Homework16beApplication">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework13beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework13be.Homework13beApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework14beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework14be.Homework14beApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ait.homework14be.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework16beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework16be.Homework16beApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ait.homework16be.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Homework16beApplication" />
+        <item itemvalue="Spring Boot.Homework14beApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2671bf5-ad19-4551-ac10-4ffc80708390" name="Changes" comment="" />
+      <created>1724544432182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724544432182</updated>
+      <workItem from="1724544433228" duration="770000" />
+      <workItem from="1724545243642" duration="4274000" />
+      <workItem from="1724586305428" duration="15087000" />
+      <workItem from="1724691342312" duration="994000" />
+      <workItem from="1725209894885" duration="3748000" />
+      <workItem from="1725216881185" duration="378000" />
+      <workItem from="1725218168176" duration="1037000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
