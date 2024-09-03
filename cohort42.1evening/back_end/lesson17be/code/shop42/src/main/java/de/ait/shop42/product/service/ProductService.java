@@ -8,16 +8,16 @@ import java.util.List;
 
 public interface ProductService {
     List<ProductResponseDTO> getAllProducts();
+    List<ProductResponseDTO> getProducts(Boolean active);
+
     ProductResponseDTO createNewProduct(ProductRequestDTO dto);
 
     ProductResponseDTO updateProduct(Long id, ProductRequestDTO dto);
 
-    ProductResponseDTO setAtctiveStatus(boolean active);
-
-    ProductResponseDTO setAtctiveStatus(Long id, boolean active);
-
-    List<ProductResponseDTO> getProducts(Boolean active);
+    ProductResponseDTO setActiveStatus(Long id, boolean active);
 
     ProductResponseDTO getById(Long id);
     Product findProductById(Long id);
+
+
 }

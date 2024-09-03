@@ -14,40 +14,38 @@ import java.util.List;
 public class ProductController {
     private final ProductService service;
 
-    //  /products
-    // /products?active=true
+    //    /products
+    //    /products?active=true
     @GetMapping("/products")
-    public List<ProductResponseDTO> getProducts(@RequestParam(name = "active", required = false) Boolean active) {
+    public List<ProductResponseDTO> getProducts(@RequestParam(name="active", required = false ) Boolean active){
         return service.getProducts(active);
     }
 
     @PostMapping("/products")
-    public ProductResponseDTO createProduct(@RequestBody ProductRequestDTO dto) {
+    public ProductResponseDTO createProduct(@RequestBody ProductRequestDTO dto){
         return service.createNewProduct(dto);
-
     }
 
-    //PUT  /products/23 +body
+    // PUT /products/23  + body
     @PutMapping("/products/{id}")
-    public ProductResponseDTO updateProduct(@PathVariable(name = "id") Long id,
-                                            @RequestBody ProductRequestDTO dto) {
-       return service.updateProduct(id,dto);
+    public ProductResponseDTO updateProduct(@PathVariable(name="id") Long id,
+                                            @RequestBody ProductRequestDTO dto){
+        return service.updateProduct(id,dto);
     }
 
-    @PatchMapping("products/{id}")
-    public ProductResponseDTO setProductActiveStatus(@RequestParam(name = "active",  defaultValue = "true") boolean active,
-                                                     @PathVariable(name = "id") Long id) {
-       return service.setAtctiveStatus(id, active);
-
-    }
-
-    //PUT /products/23/active
-    //PUT /products/23/not-active
 
     //PATCH /products/23?active=true
     //PATCH /products/23?active=false
 
+    @PatchMapping("/products/{id}")
+    public ProductResponseDTO setProductActiveStatus(@RequestParam(name="active", defaultValue = "true") boolean active,
+                                                     @PathVariable(name="id") Long id){
+        return service.setActiveStatus(id, active);
+    }
 
+
+    //PUT /products/23/active
+    //PUT /products/23/not-active
 
 
 }
