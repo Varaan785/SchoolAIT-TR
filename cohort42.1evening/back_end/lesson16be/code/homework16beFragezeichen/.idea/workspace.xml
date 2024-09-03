@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2671bf5-ad19-4551-ac10-4ffc80708390" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/SchoolAIT-TR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01be/code/demo20240729_1/demo20240729_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01be/code/demo20240729_2/demo20240729_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01be/code/homework01be/code_hw/code_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01be/code/homework01be/homework01be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson02be/code/demo20240730_1/demo20240730_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson02be/code/homework02be/homework02be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson03be/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson03be/code/demo20240731_1/demo20240731_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson03be/code/dz20240731_1/dz20240731_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson03be/code/homework03be/homework03be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson04be/code/demo20240802_1/demo20240802_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson05be/code/homework05be/homework05be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson07be/code/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson07be/code/user_service/.idea/user_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson09be/.idea/lesson09be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson10be/lesson08be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson11be/lesson11be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson12be/code/hibernate_xml_demo/hibernate_xml_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson13be/code/hibernate_annotation_demo/hibernate_xml_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/back_end/demo20240729_1/demo20240729_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/back_end/homework05be/homework05be.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../varaan/code/my_projects/experimente/code/example_01/example_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../varaan/code/my_projects/experimente/code/example_02/example_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../varaan/code/my_projects/lernen/lernen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2l7wTZJGvCxTGSzL0v0oDvFlnWu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Homework13beApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Homework13beApplication.executor": "Run",
+    "Spring Boot.Homework14beApplication.executor": "Run",
+    "Spring Boot.Homework16beApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Valerian/SchoolAIT-TR/cohort42.1evening/back_end/lesson16be/code/homework14be/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.ait.homework13be.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Homework16beApplication">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework13beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework13be.Homework13beApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework14beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework14be.Homework14beApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ait.homework14be.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework16beApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homework16be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.ait.homework16be.Homework16beApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ait.homework16be.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Homework16beApplication" />
+        <item itemvalue="Spring Boot.Homework14beApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2671bf5-ad19-4551-ac10-4ffc80708390" name="Changes" comment="" />
+      <created>1724544432182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724544432182</updated>
+      <workItem from="1724544433228" duration="770000" />
+      <workItem from="1724545243642" duration="4274000" />
+      <workItem from="1724586305428" duration="15087000" />
+      <workItem from="1724691342312" duration="994000" />
+      <workItem from="1725209894885" duration="3748000" />
+      <workItem from="1725216881185" duration="378000" />
+      <workItem from="1725218168176" duration="3373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
