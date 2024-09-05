@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="user_service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../user_service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
